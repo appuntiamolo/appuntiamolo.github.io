@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .navbar-brand a {
+  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #d9534f;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #d5433e;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #000000;
+}
+#header1-7 H1 {
+  color: #ffffff;
+}
+#header1-7 P {
+  color: #bfc7d6;
+}
+#header2-8 H1 {
+  font-size: 48px;
+}
+#header2-8 P {
+  text-align: right;
+}
+#header2-8 B {
+  color: #d9534f;
+}
+#content5-f .mbr-section-title {
+  color: #d9534f;
+}
+#content5-f P {
+  color: #ffffff;
+}
+#msg-box4-a .lead P {
+  color: #000000;
+}
